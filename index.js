@@ -114,7 +114,7 @@ const vcard = 'BEGIN:VCARD\n' +
     'VersãoON:3.0\n' +
     'FN: ESCARLATE🧙‍♂️\n' +
     'ORG:Dono do Tiringa;\n' +
-    'TEL;type=CELL;type=VOICE;waid=5561984491975:+55 (61) 844-91975\n' +
+    'TEL;type=CELL;type=VOICE;waid=5561984491975:+55 (61) 9844-91975\n' +
     'END:VCARD'
 
 //_TIC-TAC-TOE By: Resen
@@ -3150,7 +3150,7 @@ e upar seu level
                 case 'italu':
                 case 'italo':
                     await tiringa.sendMessage(from, {
-                        displayname: "Italu🧙‍♂️",
+                        displayname: "escarlate🧙‍♂️",
                         vcard: vcard
                     }, MessageType.contact)
                     addFilter(from)
