@@ -1022,7 +1022,7 @@ Use o comando ${prefix}menu para listar meus comandos
 
             //_TIPO DE USUÁRIO
             if (isOwner) {
-                var tuser = 'El Italu🕴🏽'
+                var tuser = 'Escarlate🕴🏽'
             } else if (isPremium) {
                 var tuser = 'Premium😎'
             } else if (sender == isUser) {
